@@ -1,1 +1,2 @@
-export PATH=$PATH:/action
+#!/bin/bash
+export PASH=$PASH:/action
